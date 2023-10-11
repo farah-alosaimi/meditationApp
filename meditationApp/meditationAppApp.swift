@@ -11,7 +11,7 @@ import SwiftUI
 struct meditationAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            frinds_shoug()
         }
     }
 }
