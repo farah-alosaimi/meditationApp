@@ -203,7 +203,7 @@ struct frinds_shoug: View {
             Image("add")
                 .resizable()
                 .frame(width: 44, height: 44)
-                .clipShape(/*@START_MENU_TOKEN@*/Circle()/*@END_MENU_TOKEN@*/)
+                .clipShape(Circle())
                 .position(CGPoint(x: 40, y: 780))
 
             
